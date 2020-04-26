@@ -1,4 +1,4 @@
-package com.jindding.pp;
+package jindding;
 
 public class Main {
 
