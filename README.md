@@ -1,2 +1,0 @@
-# jdpp
- jindding-portfolio
