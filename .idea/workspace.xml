@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="608b05a8-9663-423a-9ef1-42143d015088" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +52,8 @@
       <updated>1589196189797</updated>
       <workItem from="1589196191293" duration="893000" />
       <workItem from="1589197319864" duration="1664000" />
-      <workItem from="1589455862150" duration="518000" />
+      <workItem from="1589455862150" duration="1268000" />
+      <workItem from="1589552213431" duration="10000" />
     </task>
     <servers />
   </component>
@@ -51,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
