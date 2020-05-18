@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jindding" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,6 +55,8 @@
       <workItem from="1589455862150" duration="1268000" />
       <workItem from="1589552213431" duration="382000" />
       <workItem from="1589638673580" duration="2552000" />
+      <workItem from="1589726764753" duration="425000" />
+      <workItem from="1589806102044" duration="667000" />
     </task>
     <servers />
   </component>
@@ -72,5 +74,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="225" key="FileChooserDialogImpl" timestamp="1589807172153">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="650" y="225" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1589807172153" />
   </component>
 </project>
